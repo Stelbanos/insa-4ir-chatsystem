@@ -6,6 +6,12 @@ public class GestionListContact {
 
     public Communicateur comm;
 
+    public GestionListContact (User self, Communicateur commUDP) {
+        this.user = self;
+        this.comm = commUDP;
+    }
+
+
     public void initListUser () {
 
     }
@@ -29,6 +35,8 @@ public class GestionListContact {
     public ContactList getContactList () {
         return null;
     }
+
+    
 
 }
 
