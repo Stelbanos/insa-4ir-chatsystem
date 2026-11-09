@@ -1,4 +1,4 @@
-import java.lang.System;
+package Modele;
 import java.util.ArrayList;
 
 public class ContactList {

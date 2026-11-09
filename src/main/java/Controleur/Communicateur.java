@@ -1,5 +1,6 @@
-import java.io.IOException;
-import java.net.*;
+package Controleur;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
 
 public class Communicateur {
 

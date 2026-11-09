@@ -1,4 +1,5 @@
-import java.net.*;
+package Modele;
+import java.net.InetAddress;
 
 public class User {
     

@@ -1,3 +1,7 @@
+package Controleur.ListContact;
+import Controleur.Communicateur;
+import Modele.ContactList;
+import Modele.User;
 
 public class GestionListContact {
     private User user;

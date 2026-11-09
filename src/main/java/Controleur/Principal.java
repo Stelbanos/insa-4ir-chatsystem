@@ -1,5 +1,9 @@
+package Controleur;
 import java.io.IOException;
-import java.net.*;
+import java.net.InetAddress;
+
+import Controleur.ListContact.GestionListContact;
+import Modele.User;
 
 public class Principal {
     
